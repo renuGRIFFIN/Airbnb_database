@@ -1,0 +1,4 @@
+room_type_id,room_type_name
+1    ,Private room
+2    ,Entire home/apt
+3    ,Hotel room

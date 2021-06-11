@@ -1,0 +1,102 @@
+property_id,property_name,occupancy,avalibility,price,room_type_id,review_id,host_id
+P1,Quiet Garden View Room & Super Fast WiFi,3,152,59,1,R1,3159
+P2,Studio with private bathroom in the centre 1,1,0,200,1,R2,59484
+P3,"Lovely, 1 bed apt in Ctr (w.lift) -3/20-6/20(flex)",14,132,125,2,R3,56142
+P4,"Romantic, stylish B&B houseboat in canal district",2,66,141,1,R4,97647
+P5,Comfortable double room,2,335,75,1,R5,124245
+P6,Comfortable single room,2,351,55,1,R6,124245
+P7,Amsterdam Center Entire Apartment,4,0,160,2,R7,178515
+P8,Oasis in the middle of Amsterdam,3,362,211,2,R8,188098
+P9,View into park / museum district (long/short stay),14,164,65,2,R9,65041
+P10,Cozy loft in central Amsterdam,3,0,150,2,R10,207342
+P11,Multatuli Luxury Guest Suite in top location,2,243,157,2,R11,225987
+P12,Luxurous Houseboat-Great Location,3,365,250,2,R12,227530
+P13,"Family Home (No drugs, smoking or parties)",4,186,115,2,R13,231864
+P14,B & B de 9 Straatjes (city center),2,348,118,1,R14,231946
+P15,Amsterdam Aqua,2,0,75,1,R15,185836
+P16,Nice room near centre with en suite bath,3,5,95,1,R16,247822
+P17,"Fully equiped house, PIJP area = great",3,0,222,2,R17,262846
+P18,"Greatly located, cozy atmosphere",2,358,65,1,R18,263844
+P19,Apartment near Museumplein (centre),4,178,149,2,R19,264178
+P20,En Suite Apartment in a monumental canal house,3,36,135,1,R20,null
+P21,"Charming, beautifully & sunny place with cat Luna",2,364,120,2,R21,301340
+P22,Very nice appartment ALL of januari,30,0,750,2,R22,306117
+P23,Luxury Houseboat,3,0,189,2,R23,306192
+P24,Amsterdam - The Pijp Apartment 1A,2,0,106,2,R24,335166
+P25,Rebel - Private Room,1,0,122,1,R25,336950
+P26,Yves Klein - Private Room,1,0,98,1,R26,336950
+P27,Attic room with doublebed available,1,11,40,1,R27,339333
+P28,Garden Suite Studiohttps://www.airbnb.com/manage-l,3,0,55,1,R28,399879
+P29,Cottage Room- Completely Private,3,0,48,1,R29,399879
+P30,Red Studio Palamedes Amsterdam,4,341,90,2,R30,400896
+P31,Yellow Studio Palamedes Amsterdam,4,323,90,2,R31,400896
+P32,"studio INN, bright and spacious",3,0,170,3,R32,409579
+P33,TOP LOCATED Canalhouse B&B Jordaan,2,0,109,1,R33,436145
+P34,The Backroom - Central private appt,2,338,109,2,R34,186729
+P35,Bright apt in central Amsterdam,3,364,249,2,R35,450453
+P36,Bed&Bike SleepOnNature - free bikes,3,98,109,3,R36,459028
+P37,Museum district/Vondelpark studio-apartment,30,180,66,2,R37,65041
+P38,"Privat room and shared Houseboat ""Ramona"" centre",1,0,95,1,R38,494281
+P39,Beautiful and spacious room,2,362,60,1,R39,195859
+P40,Urban Oasis~beautiful street in Old South,14,23,99,2,R40,485930
+P41,"A'dam Centre, Bright and Comfy",2,362,150,2,R41,249794
+P42,Amsterdam at its best,5,0,100,2,R42,null
+P43,Modern High End Designer Duplex,10,336,125,2,R43,567065
+P44,Large private room for rent Center / De Pijp,2,0,80,1,R44,642044
+P45,light modern & cosy apartment,4,0,145,2,R45,689016
+P46,Bright room in lively Kinkerbuurt,2,0,37,1,R46,715549
+P47,Lovely apartment near Vondelpark,2,365,120,1,R47,725727
+P48,Apartment 2 minutes from Centrum!,7,0,150,2,R48,748161
+P49,Modern app. with brand new design bathroom,3,1,139,2,R49,776296
+P50,Amsterdam at your feet,2,139,112,2,R50,790547
+P51,"SUPERLOCATED Room in  CANALHOUSE, Private bath",2,0,118,1,R51,436145
+P52,"Central,Rooftop 360',Zen,Canal-View, Bright,Quiet",7,57,157,2,R52,806976
+P53,canal view in Jordaan & 9 Streets,5,97,110,2,R53,811403
+P54,Spacious apartment next to center,3,0,120,2,R54,815989
+P55,Authentic Amsterdam Experience@Townhouse w/Rooftop,2,120,249,2,R55,818319
+P56,"Pleasant,cosy & crazy apartment with small balcony",4,364,97,2,R56,818479
+P57,Cosy Apt | IN CITY CENTRE | Close to Artis Zoo,2,0,170,2,R57,3159
+P58,Cat lover's paradise in Amsterdam's hottest street,2,0,200,2,R58,null
+P59,Authentic Amsterdam apartment RAI,21,351,250,2,R59,856540
+P60,"Central, quiet, design apartment",30,0,125,2,R60,876866
+P61,Metropolitan B&B centre Amsterdam,2,254,113,1,R61,915591
+P62,Lovely light appartment with garden,5,41,80,2,R62,922787
+P63,Private Loft&Bathroom  Ensuite Studio Ctr Amsterda,3,232,79,1,R63,935742
+P64,The best spot to discover Amsterdam,3,0,129,2,R64,967796
+P65,ART & DESIGN APARTMENT,5,0,99,2,R65,976652
+P66,Best Area - Large Luxury 3 Bdr Home,3,0,284,2,R66,999036
+P67,Central yet quiet studio apartment,1,0,99,2,R67,1011967
+P68,Nice apt close to Amstel&citycenter,2,358,50,1,R68,1090600
+P69,Spacious home w roof garden,3,129,246,2,R69,887591
+P70,Amsterdam Apartment (waterview),2,0,151,2,R70,599238
+P71,LUXURIOUS GUESTHOUSE in CITY CENTER,3,202,99,1,R71,1107389
+P72,Suite in Canalhouse with Jacuzzi,2,342,245,1,R72,1135329
+P73,Cosy apartment in West | Quiet street | Netflix,5,0,119,2,R73,1155595
+P74,Jordaan apt with views of canals and Westerkerk,14,0,125,2,R74,1205924
+P75,Sonnenberg - Canal side & view - Private & Central,2,128,541,2,R75,1005087
+P76,"Bellavista, central,with canal view",2,360,122,1,R76,1298735
+P77,Modern studio near central AMS,4,0,79,2,R77,1314658
+P78,Luxurious apartment at the Prinsengracht,365,179,65,2,R78,1318753
+P79,Amazing apartment historical centre,4,365,385,2,R79,1322517
+P80,The Flying Pancake B&B Amsterdam,2,355,149,1,R80,1334704
+P81,Amazing apartment in city center,3,365,296,2,R81,1337537
+P82,"bed & bike with free parking 
+the house of finer",2,344,169,1,R82,null
+P83,"Caracteristic, family apartment",5,0,250,2,R83,1350388
+P84,Great CENTRAL apartment De Pijp,30,365,8000,2,R84,1205924
+P85,Charming Studio with Roof Terrace,3,3,88,1,R85,1376607
+P86,"Private, central & luxurious apment",2,70,85,2,R86,1391689
+P87,"Luxury appartm, good neighbourhood",5,0,145,2,R87,1426693
+P88,Cozy sleeping in popular Amsterdam West,2,89,125,2,R88,1435990
+P89,nice apartment in centre amsterdam,4,0,125,2,R89,1446698
+P90,Your central home in wonderful AMS!,10,0,116,2,R90,1471195
+P91,5-bedrooms house; central location,2,270,707,2,R91,1451657
+P92,Cozy and quiet 1 bedroom apartment,4,315,95,2,R92,1173052
+P93,"Center,Canal View, Private Bathroom",3,253,87,1,R93,1491565
+P94,"Center, Large&Sunny Room,Pvt Bathrm",3,285,87,1,R94,1491565
+P95,cosy bedroom | garden | near center | breakfast,2,0,80,1,R95,1247363
+P96,Cozy & large bohemian style room,3,365,105,1,R96,1511330
+P97,Sunny Apartment along river IJ,7,1,115,1,R97,1493495
+P98,Volledig huis-apartement,1,0,74,2,R98,1518360
+P99,Cosy apartment in charming Jordaan,3,0,125,2,R99,1550321
+P100,Sunny family flat in the Jordaan!,5,0,112,2,R100,1557454
