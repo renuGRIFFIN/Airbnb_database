@@ -6,6 +6,7 @@ In this project, Airbnb property listing database of 'Amsterdam, Netherlands' fr
 Software Used:
 1) MySQL
 •	For building database, MySQL software has been used.
+
 •	For designing purpose, 3rd Normalization Form has been taken. 
 •	Here, for creating tables, different types of SQL constraints like, not null, primary key foreign key constraints have been considered. 
 •	Stored Procedures and Functions has been also.
